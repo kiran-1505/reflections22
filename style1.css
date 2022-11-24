@@ -32,7 +32,9 @@
     font-size: 30px; 
     margin-bottom: 10px;
 }
-
+.last{
+    background-color: rgb(200, 140, 230);
+}
 .colour2{
     background-color: rgb(46, 35, 63);
     font-size: 30px;
